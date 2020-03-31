@@ -1,11 +1,9 @@
 import java.util.HashMap;
 
-public class Braille {
-		public static void main(String args[]){
-			// System.out.println(solution("code"));
-			// System.out.println(solution("Braille"));
-			System.out.println(solution("The quick brown fox jumps over the lazy dog"));
-		}
+public class Level1Q1 {
+	public static void main(String args[]){
+		System.out.println(solution("The quick brown fox jumps over the lazy dog"));
+	}
 	
     public static String solution(String s) {
         HashMap<Character, String> map = new HashMap<Character, String>();
@@ -50,6 +48,5 @@ public class Braille {
             ans.append(map.get(current));
         }
         return ans.toString();
-    	// Your code here
     }
 }
