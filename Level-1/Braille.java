@@ -1,6 +1,6 @@
 import java.util.HashMap;
 
-public class Level1Q1 {
+public class Braille {
 	public static void main(String args[]){
 		System.out.println(solution("The quick brown fox jumps over the lazy dog"));
 	}
