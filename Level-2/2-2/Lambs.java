@@ -30,27 +30,3 @@ public class Lambs {
         	return (stingy-generous);
     }
 }
-
-// public static int solution(int total_lambs) {
-//         if(total_lambs == 1)
-//         	return 0;
-//         else{
-//         	int generous=0, stingy=2;
-//         	int i=0;
-//         	while(Math.pow(2, i)<=total_lambs)
-//         		i++;
-//         	generous = i-1;
-//         	int a=1;
-//         	int b=1;
-//         	int sum = a+b;
-//         	while(sum<=total_lambs){
-//         		stingy++;
-//         		int c = a+b;
-//         		a = b;
-//         		b = c;
-//         		sum += c;
-//         	}
-//         	stingy = stingy-1;
-//         	return (stingy-generous);
-//         }
-//     }
