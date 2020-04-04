@@ -28,24 +28,24 @@ Test cases
 Your code should pass the following test cases.
 Note that it may also be run against hidden test cases not shown here.
 
--- Python cases --
-Input:
-solution.solution('15')
-Output:
-    5
+-- Python cases --<br>
+Input:<br>
+solution.solution('15')<br>
+Output:<br>
+    5<br>
 
-Input:
-solution.solution('4')
-Output:
-    2
+Input:<br>
+solution.solution('4')<br>
+Output:<br>
+    2<br>
 
--- Java cases --
-Input:
-Solution.solution('4')
-Output:
-    2
+-- Java cases --<br>
+Input:<br>
+Solution.solution('4')<br>
+Output:<br>
+    2<br>
 
-Input:
-Solution.solution('15')
-Output:
-    5
+Input:<br>
+Solution.solution('15')<br>
+Output:<br>
+    5<br>
