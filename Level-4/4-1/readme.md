@@ -40,34 +40,18 @@ Test cases
 Your code should pass the following test cases.
 Note that it may also be run against hidden test cases not shown here.
 
--- Python cases --
-Input:
-solution.solution(2, 1)
-Output:
-    [[0], [0]]
-
-Input:
-solution.solution(4, 4)
-Output:
-    [[0], [1], [2], [3]]
-
-Input:
-solution.solution(5, 3)
-Output:
-    [[0, 1, 2, 3, 4, 5], [0, 1, 2, 6, 7, 8], [0, 3, 4, 6, 7, 9], [1, 3, 5, 6, 8, 9], [2, 4, 5, 7, 8, 9]]
-
 -- Java cases --
-Input:
-Solution.solution(2, 1)
-Output:
-    [[0], [0]]
+Input:<br>
+Solution.solution(2, 1)<br>
+Output:<br>
+    [[0], [0]]<br>
 
-Input:
-Solution.solution(5, 3)
-Output:
-    [[0, 1, 2, 3, 4, 5], [0, 1, 2, 6, 7, 8], [0, 3, 4, 6, 7, 9], [1, 3, 5, 6, 8, 9], [2, 4, 5, 7, 8, 9]]
-
-Input:
-Solution.solution(4, 4)
-Output:
+Input:<br>
+Solution.solution(5, 3)<br>
+Output:<br>
+    [[0, 1, 2, 3, 4, 5], [0, 1, 2, 6, 7, 8], [0, 3, 4, 6, 7, 9], [1, 3, 5, 6, 8, 9], [2, 4, 5, 7, 8, 9]]<br>
+   
+Input:<br>
+Solution.solution(4, 4)<br>
+Output:<br>
     [[0], [1], [2], [3]]
