@@ -39,18 +39,18 @@ Test cases
 Your code should pass the following test cases.
 Note that it may also be run against hidden test cases not shown here.
 
--- Java cases --
-Input:
-Solution.solution({{true, true, false, true, false, true, false, true, true, false}, {true, true, false, false, false, false, true, true, true, false}, {true, true, false, false, false, false, false, false, false, true}, {false, true, false, false, false, false, true, true, false, false}})
-Output:
-    11567
+-- Java cases --<br>
+Input:<br>
+Solution.solution({{true, true, false, true, false, true, false, true, true, false}, {true, true, false, false, false, false, true, true, true, false}, {true, true, false, false, false, false, false, false, false, true}, {false, true, false, false, false, false, true, true, false, false}})<br>
+Output:<br>
+    11567<br>
 
-Input:
-Solution.solution({{true, false, true}, {false, true, false}, {true, false, true}})
-Output:
-    4
+Input:<br>
+Solution.solution({{true, false, true}, {false, true, false}, {true, false, true}})<br>
+Output:<br>
+    4<br>
 
-Input:
-Solution.solution({{true, false, true, false, false, true, true, true}, {true, false, true, false, false, false, true, false}, {true, true, true, false, false, false, true, false}, {true, false, true, false, false, false, true, false}, {true, false, true, false, false, true, true, true}}
-Output:
-    254
+Input:<br>
+Solution.solution({{true, false, true, false, false, true, true, true}, {true, false, true, false, false, false, true, false}, {true, true, true, false, false, false, true, false}, {true, false, true, false, false, false, true, false}, {true, false, true, false, false, true, true, true}}<br>
+Output:<br>
+    254<br>
